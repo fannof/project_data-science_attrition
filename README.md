@@ -29,11 +29,38 @@ Sumber data: <a href="https://github.com/dicodingacademy/dicoding_dataset/tree/m
 
 Setup environment:
 
+- Buka terminal atau command prompt, lalu masukan perintah dibawah ini
+
+```
+conda create --name mlops-attrition python=3.9.15
 ```
 
+- Aktifkan environment yang baru dibuat
+
+```
+conda activate mlops-attrition
+```
+
+- Download semua dependencies yang berada di file requirements.txt
+
+```
+pip install -r requirements.txt
+```
+
+- Buat kernel baru bernama 'mlops attrition' di jupyter
+
+```
+python -m ipykernel install --user --name mlops-attrition --display-name "mlops attrition"
+```
+- Setelah semua selesai, buka Jupyter Notebook
+
+```
+jupyter notebook
 ```
 
 ## Business Dashboard
+
+![fannof-dashboard](https://github.com/user-attachments/assets/671f5d85-30f0-4c86-a3af-517a60d6c6b5)
 
 Dashboard ini merupakan HR Analytics Dashboard yang menyajikan berbagai metrik terkait karyawan perusahaan, dengan fokus utama pada attrition (turnover). Berikut adalah deskripsi untuk setiap visualisasi di dalam dashboard ini:
 
