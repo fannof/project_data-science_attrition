@@ -60,7 +60,7 @@ jupyter notebook
 
 ## Business Dashboard
 
-![fannof-dashboard](https://github.com/user-attachments/assets/671f5d85-30f0-4c86-a3af-517a60d6c6b5)
+![fannof-dashboard](https://github.com/user-attachments/assets/16dc25c8-2dae-4cc3-b9a4-737d9c412596)
 
 Dashboard ini merupakan HR Analytics Dashboard yang menyajikan berbagai metrik terkait karyawan perusahaan, dengan fokus utama pada attrition (turnover). Berikut adalah deskripsi untuk setiap visualisasi di dalam dashboard ini:
 
